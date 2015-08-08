@@ -1,0 +1,2 @@
+Finds thing inside files. 
+The "grep" command takes two parameters. The first is what you want to search for and the second is what files you want to search through.
