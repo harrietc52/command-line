@@ -1,0 +1,2 @@
+Counts number of lines/words/bytes in a file. 
+The "wc" command displays three numbers corresponding to number of lines, words and characted counts contained in each input file. 
